@@ -3061,6 +3061,7 @@ data = {
  '960301':{'en': u('Mal\u00e9/Hulhul\u00e9/Aarah')},
  '960302':{'en': u('Mal\u00e9 Region')},
  '960303':{'en': u('Mal\u00e9 Region')},
+ '960304':{'en': u('Mal\u00e9 Region')},
  '960330':{'en': u('Mal\u00e9/Hulhul\u00e9/Aarah')},
  '960331':{'en': u('Mal\u00e9/Hulhul\u00e9/Aarah')},
  '960332':{'en': u('Mal\u00e9/Hulhul\u00e9/Aarah')},

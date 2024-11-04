@@ -19,6 +19,7 @@ from ..util import u
 # limitations under the License.
 
 data = {
+ '5699381':{'en': 'Movistar'},
  '5699382':{'en': 'Entel'},
  '5699383':{'en': 'Entel'},
  '5699385':{'en': 'Claro'},
@@ -669,7 +670,7 @@ data = {
  '59669689':{'en': 'SFR/Rife'},
  '5966969':{'en': 'Digicel'},
  '59669699':{'en': 'Orange'},
- '596697':{'en': 'Digicel'},
+ '59669727':{'en': 'Digicel'},
  '59771':{'en': 'Digicel'},
  '59772':{'en': 'Digicel'},
  '59774':{'en': 'Digicel'},
@@ -1678,10 +1679,10 @@ data = {
  '658947':{'en': 'Simba'},
  '658948':{'en': 'Simba'},
  '658949':{'en': 'M1'},
+ '65895':{'en': 'Simba'},
  '658950':{'en': 'M1'},
  '658951':{'en': 'M1'},
  '658952':{'en': 'M1'},
- '658953':{'en': 'Simba'},
  '65896':{'en': 'Simba'},
  '659001':{'en': 'StarHub'},
  '659002':{'en': 'StarHub'},
@@ -8703,6 +8704,7 @@ data = {
  '99210':{'en': 'O-Mobile'},
  '99211':{'en': 'Tcell'},
  '99217':{'en': 'Babilon-M'},
+ '99218':{'en': 'ZET-MOBILE'},
  '9922':{'en': 'O-Mobile'},
  '99230':{'en': 'O-Mobile'},
  '992330':{'en': 'ZET-MOBILE'},
