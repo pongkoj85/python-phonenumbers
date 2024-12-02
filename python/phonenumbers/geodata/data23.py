@@ -19,6 +19,8 @@ from ..util import u
 # limitations under the License.
 
 data = {
+ '861596083':{'en': 'Xiamen, Fujian', 'zh': u('\u798f\u5efa\u7701\u53a6\u95e8\u5e02')},
+ '861596084':{'en': 'Xiamen, Fujian', 'zh': u('\u798f\u5efa\u7701\u53a6\u95e8\u5e02')},
  '861596085':{'en': 'Zhangzhou, Fujian', 'zh': u('\u798f\u5efa\u7701\u6f33\u5dde\u5e02')},
  '861596086':{'en': 'Zhangzhou, Fujian', 'zh': u('\u798f\u5efa\u7701\u6f33\u5dde\u5e02')},
  '861596087':{'en': 'Zhangzhou, Fujian', 'zh': u('\u798f\u5efa\u7701\u6f33\u5dde\u5e02')},
@@ -10017,6 +10019,4 @@ data = {
  '861787831':{'en': 'Wuzhou, Guangxi', 'zh': u('\u5e7f\u897f\u68a7\u5dde\u5e02')},
  '861787839':{'en': 'Beihai, Guangxi', 'zh': u('\u5e7f\u897f\u5317\u6d77\u5e02')},
  '861787840':{'en': 'Wuzhou, Guangxi', 'zh': u('\u5e7f\u897f\u68a7\u5dde\u5e02')},
- '861787841':{'en': 'Wuzhou, Guangxi', 'zh': u('\u5e7f\u897f\u68a7\u5dde\u5e02')},
- '861787842':{'en': 'Wuzhou, Guangxi', 'zh': u('\u5e7f\u897f\u68a7\u5dde\u5e02')},
 }

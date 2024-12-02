@@ -7002,6 +7002,7 @@ data = {
  '1325947':{'en': 'San Angelo, TX'},
  '1325949':{'en': 'San Angelo, TX'},
  '1326':{'en': 'Ohio'},
+ '1327':{'en': 'Arkansas'},
  '1329':{'en': 'New York'},
  '1330':{'en': 'Ohio'},
  '1330220':{'en': 'Brunswick, OH'},
@@ -10018,5 +10019,4 @@ data = {
  '1414489':{'en': 'Cudahy, WI'},
  '1414527':{'en': 'Milwaukee, WI'},
  '1414535':{'en': 'Milwaukee, WI'},
- '1414536':{'en': 'Milwaukee, WI'},
 }

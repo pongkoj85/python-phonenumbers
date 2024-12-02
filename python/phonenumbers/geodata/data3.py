@@ -19,6 +19,7 @@ from ..util import u
 # limitations under the License.
 
 data = {
+ '191868':{'en': 'Muskogee, OK'},
  '1918689':{'en': 'Eufaula, OK'},
  '1918696':{'en': 'Stilwell, OK'},
  '1918712':{'en': 'Tulsa, OK'},
@@ -1081,6 +1082,7 @@ data = {
  '194195':{'en': 'Sarasota, FL'},
  '1941964':{'en': 'Boca Grande, FL'},
  '1941979':{'en': 'Port Charlotte, FL'},
+ '1942':{'en': 'Toronto, ON'},
  '1943':{'en': 'Georgia'},
  '1945':{'en': 'Texas'},
  '1947':{'en': 'Michigan'},
@@ -10017,6 +10019,4 @@ data = {
  '3323595':{'en': 'Yvetot', 'fr': 'Yvetot'},
  '3323597':{'en': 'Saint-Valery-en-Caux', 'fr': 'Saint-Valery-en-Caux'},
  '3323598':{'en': 'Rouen', 'fr': 'Rouen'},
- '3323600':{'en': 'Tours', 'fr': 'Tours'},
- '3323601':{'en': u('La Ch\u00e2tre'), 'fr': u('La Ch\u00e2tre')},
 }
