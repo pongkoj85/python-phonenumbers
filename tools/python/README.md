@@ -115,7 +115,7 @@ Release Procedure
 
 - Ensure that `python/HISTORY.md` file is up-to-date, and includes
   descriptions of changes in this version (adapted from the
-  upstream [release notes](https://github.com/google/libphonenumber/blob/master/java/release_notes.txt),
+  upstream [release notes](https://github.com/google/libphonenumber/blob/master/release_notes.txt),
   skipping the metadata changes chunks).
 - Set the `__version__` field in `python/phonenumbers/__init__.py`
 - Check that the list of symbols in `python/phonenumbers/__init__.py` `__all__` is
