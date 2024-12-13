@@ -3429,7 +3429,6 @@ data = {
  '861709997':{'en': 'Zhongshan, Guangdong', 'zh': u('\u5e7f\u4e1c\u7701\u4e2d\u5c71\u5e02')},
  '861709998':{'en': 'Shenzhen, Guangdong', 'zh': u('\u5e7f\u4e1c\u7701\u6df1\u5733\u5e02')},
  '861709999':{'en': 'Guangzhou, Guangdong', 'zh': u('\u5e7f\u4e1c\u7701\u5e7f\u5dde\u5e02')},
- '86173':{'en': 'Beijing', 'zh': u('\u5317\u4eac\u5e02')},
  '8617600':{'en': 'Beijing', 'zh': u('\u5317\u4eac\u5e02')},
  '8617601':{'en': 'Beijing', 'zh': u('\u5317\u4eac\u5e02')},
  '86176012':{'en': 'Shanghai', 'zh': u('\u4e0a\u6d77\u5e02')},
@@ -10019,4 +10018,5 @@ data = {
  '861787831':{'en': 'Wuzhou, Guangxi', 'zh': u('\u5e7f\u897f\u68a7\u5dde\u5e02')},
  '861787839':{'en': 'Beihai, Guangxi', 'zh': u('\u5e7f\u897f\u5317\u6d77\u5e02')},
  '861787840':{'en': 'Wuzhou, Guangxi', 'zh': u('\u5e7f\u897f\u68a7\u5dde\u5e02')},
+ '861787841':{'en': 'Wuzhou, Guangxi', 'zh': u('\u5e7f\u897f\u68a7\u5dde\u5e02')},
 }
